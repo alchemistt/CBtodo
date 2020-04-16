@@ -7,6 +7,4 @@
 *	PATCH /todos/4 – update details of todo with id = 4 
 *	GET        /todos/4/notes – get list of all notes under todo with id = 4 
 *	POST     /todos/4/notes – add a new note under todo with id = 4
-#� �C�B�t�o�d�o�
-�
-�
+
